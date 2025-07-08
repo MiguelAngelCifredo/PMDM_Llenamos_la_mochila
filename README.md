@@ -51,9 +51,13 @@ Esta es una app Android sencilla que permite mostrar un mensaje según las opcio
 
 ![Pantalla principal](screenshots/inicio.png)
 
-### Resultado de una selección
+### Selección de objetos con peso válido
 
-![Resultado](screenshots/seleccion.png)
+![Resultado](screenshots/pesovalido.png)
+
+### Selección de objetos con peso no válido
+
+![Resultado](screenshots/pesoerror.png)
 
 ## 📄 Licencia
 
